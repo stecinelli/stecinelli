@@ -7,7 +7,7 @@
 <hr>
 <p>
 I completed the JavaScript FullStack course at School of Applied Technology </Salt> in 2022.
-I’m passionate about Web technologies, Javascript and Python are my programming languages. My professional background in software development projects focused on Customer Experience (Agile, UX, CX, DevOps), my B.D. in Bussines and my M.D in Customer Experience, as well as, the completed bootcamp in Salt allow me to be a successful software engineer 😊
+I’m passionate about Web technologies, Javascript and Python are my programming languages. My professional background in software development projects focused on Customer Experience (Agile, UX, CX, DevOps), my B.D. in Bussines and my M.D in Customer Experience, as well as, the completed bootcamp in Salt allow me to be a successful software developer 😊
 </p>
 
 <hr>
