@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Steph ✌️</h1>
 <h3 align="center">Full Stack JavaScript Developer <img width="50" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/></h3>
 <p>
-I'm passionate software developer with work experience as a Full Stack developer at &lt;/Salt&gt;.
+I'm passionate software developer with work experience as a Full Stack developer.
 I’m passionate about Web technologies, Javascript and TypeScript are my programming languages. My professional background of 7 years working in software development projects as Project Manager, my B.D. in Bussines and my M.D in Customer Experience, as well as, a completed bootcamp allow me to be a successful software developer 😊
 </p>
 
